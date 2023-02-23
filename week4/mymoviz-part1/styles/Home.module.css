@@ -1,0 +1,42 @@
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 4rem 0;
+}
+
+
+.header {
+  background-color: #021334;
+height: 100px;
+}
+
+
+.logo {
+height: 50px;
+flex-direction: row;
+justify-content: space-between;
+right: 50 px;
+
+margin-left: 5%;
+}
+
+.popover {
+
+display: flex;
+  flex-direction: column;
+justify-content: space-between;
+border-radius: 20px;
+left: 1300px;
+height: 30px;
+}
+
+.title {
+size: 1000px;
+color: black;
+
+
+}
